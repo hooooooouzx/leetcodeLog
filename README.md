@@ -1,2 +1,2 @@
 # leetcodeLog
-Ethan's algorithm practice diary
+Ethan daily algorithm practice
